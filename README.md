@@ -7,10 +7,11 @@ any existing roleplay game.
 
 ## Play
 
-Open [`ContainmentShift.swiftpm`](./ContainmentShift.swiftpm) in Swift
-Playgrounds, or open this repository as a Swift package in Xcode. Run the
-`ContainmentShift` executable on macOS or iOS 17 and later. On GitHub, use
-**Code → Download ZIP** to download the `.swiftpm` app package with the project.
+Open [`ContainmentShift.swiftpm`](./ContainmentShift.swiftpm) directly in Swift
+Playgrounds. Its package manifest declares an iOS app product for iPhone and
+iPad. You can also open the repository root as a Swift package in Xcode to run
+the desktop version on macOS 14 or later. On GitHub, use **Code → Download ZIP**
+to download the repository, then open the `.swiftpm` folder in Swift Playgrounds.
 
 The package manifest is at the repository root, so the repository can also be
 cloned and opened directly as a Swift package.
